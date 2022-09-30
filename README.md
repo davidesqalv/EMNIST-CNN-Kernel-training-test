@@ -7,6 +7,7 @@ Kernel sizes tested:
 - 8
 - 16
 - 24
+- 64 + 128
 
 Also a simple dense layer instead of the convolutional layer was tested, which resulted in overfitting
 
