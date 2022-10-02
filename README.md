@@ -15,5 +15,5 @@ Also a simple dense layer instead of the convolutional layer was tested, which r
 ![image](https://user-images.githubusercontent.com/83359345/193330485-97f70625-3ea7-4538-a5bb-418436242b17.png)
 
 
-Same test was done for a few Chinese characters, just to assess how it would work with something different than a letter:
+Same test was done for a few Chinese characters, just to assess how it would work with something different:
 ![image](https://user-images.githubusercontent.com/83359345/193330941-4519807f-c390-4fbe-b324-20eceba0d831.png)
