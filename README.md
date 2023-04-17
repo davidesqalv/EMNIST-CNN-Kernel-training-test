@@ -1,7 +1,7 @@
 # EMNIST-CNN-Kernel-training-test
 Training a CNN with the EMNIST Balanced dataset with different kernel matrix sizes and evaluating accuracy
 
-The model layers are printed after training, to get a better look on the inner workings of a Convolutional Neural Network:
+In this python notebook, the model layers are printed after training, to get a better look on the inner workings of a Convolutional Neural Network:
 ![image](https://user-images.githubusercontent.com/83359345/193330394-b62ab85a-806a-48e2-9817-e5b4240c0cbd.png)
 
 Kernel sizes tested:
